@@ -1,0 +1,5 @@
+build/
+*.exe
+.env
+build-error.txt
+test-compiler.cpp
